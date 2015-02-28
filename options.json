@@ -1,0 +1,8 @@
+{
+	"baseName": "framework-app",
+	"dbDialect": "mysql",
+	"dbHost": "localhost",
+	"dbName": "generator",
+	"dbUser": "generator_test",
+	"dbPassword": "generator_password"
+}
